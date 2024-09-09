@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Stacee",
+        "last_name": "Black",
+        "email": "sblack0@xing.com",
+        "gender": "Male",
+        "salary": "4255"
+    },
+    {
+        "id": 2,
+        "first_name": "Dorothee",
+        "last_name": "Cusiter",
+        "email": "dcusiter1@angelfire.com",
+        "gender": "Female",
+        "salary": "903"
+    },
+    {
+        "id": 3,
+        "first_name": "Elane",
+        "last_name": "Eggers",
+        "email": "eeggers2@meetup.com",
+        "gender": "Female",
+        "salary": "3907"
+    },
+    {
+        "id": 4,
+        "first_name": "Piotr",
+        "last_name": "Moniker",
+        "email": "pmoniker3@senate.gov",
+        "gender": "Male",
+        "salary": "972"
+    },
+    {
+        "id": 5,
+        "first_name": "Quinn",
+        "last_name": "Teresse",
+        "email": "qteresse4@shop-pro.jp",
+        "gender": "Male",
+        "salary": "865"
+    },
+    {
+        "id": 6,
+        "first_name": "Kipp",
+        "last_name": "Pree",
+        "email": "kpree5@pagesperso-orange.fr",
+        "gender": "Male",
+        "salary": "56818"
+    },
+    {
+        "id": 7,
+        "first_name": "Wendeline",
+        "last_name": "Flippelli",
+        "email": "wflippelli6@ucoz.com",
+        "gender": "Female",
+        "salary": "0801"
+    },
+    {
+        "id": 8,
+        "first_name": "Hiram",
+        "last_name": "Leaney",
+        "email": "hleaney7@yellowbook.com",
+        "gender": "Male",
+        "salary": "7"
+    },
+    {
+        "id": 9,
+        "first_name": "Brew",
+        "last_name": "Yockley",
+        "email": "byockley8@mozilla.com",
+        "gender": "Male",
+        "salary": "991"
+    },
+    {
+        "id": 10,
+        "first_name": "Billye",
+        "last_name": "Howard - Gater",
+        "email": "bhowardgater9@vistaprint.com",
+        "gender": "Female",
+        "salary": "6"
+    }
+]
